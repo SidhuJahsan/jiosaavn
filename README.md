@@ -3,13 +3,10 @@
   <a href="https://github.com/Oshekher/jiosaavn"><img src="https://telegra.ph/file/d1ca7db1f19ee64ad150c.png" alt="Musicder" width="300"></a>
 
 <p align="center">
-  <a href="https://musicder.net">
+  <a href="https://www.jiosaavn.ml/">
     <img src="https://img.shields.io/badge/Download--A--Song--Now-green?logo=copy&style=for-the-badge"
          alt="Download a Song" width="200">
  </a><br><br>
-    <a href="https://t.me/thewantedcracker">
-    <img src="https://img.shields.io/badge/Musicder%20bot%20is%20now%20on%20telegram,%20Download%20a%20song%20from%20telegram%20-blue?logo=copy&style=for-the-badge"
-         alt="Telegram" width="450">
 
 ### Features :
 *1. Free.*<br>
