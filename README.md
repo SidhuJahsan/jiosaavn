@@ -8,6 +8,13 @@
          alt="Download a Song" width="200">
  </a><br><br>
 
+### Done till now :
+*1. Removed the Google Analytics.*<br>
+*2. Updated the api.*<br>
+*3. Remove annoying codes from source.*<br>
+*4. Changed visibility from priv to publ.*<br>
+*5. More changes coming soon.*<br>
+
 ### Features :
 *1. Free.*<br>
 *2. Fast.* <br>
@@ -27,7 +34,7 @@
 
 ## 2. Frontend
 ### Brief: <br>
-*Musicder is a React project. It fetch song's details from a [API](https://github.com/Oshekher/jiosaavnapi "JioSaavnAPI") and Serve it.*<br>
+*It fetch song's details from a [API](https://github.com/Oshekher/jiosaavnapi "JioSaavnAPI") and Serve it.*<br>
 ### Deploy:<br>
 
 **I will suggest to use Vercel.** <br>
